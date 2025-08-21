@@ -1,0 +1,157 @@
+CARDS
+[BLACK CARDS] Slight Cards (Confess Your Crimes)
+I didn’t use my turn signal when changing lanes.
+I listened to my music on a Bluetooth speaker in public.
+I put an empty milk jug in the fridge.
+I sent a ‘just checking in!’ text but never replied when they answered.
+I cut across two lanes to catch my exit at the last second.
+I left a single sheet of toilet paper on the roll instead of replacing it.
+I farted in a sealed elevator.
+I talked through the entire movie, but only during the important parts.
+I puff puffed but didn’t pass.
+I took my shoes off on a plane and put my bare feet on the seat in front of me.
+My phone went off during a funeral.
+I chewed with my mouth open while making direct eye contact.
+I wore way too much perfume or cologne.
+I FaceTimed someone in a public restroom.
+I blocked traffic for a TikTok video.
+I clapped when the plane landed.
+I cooked my steak well done.
+I left my shopping cart in the middle of the parking lot.
+I blamed the cat for something I did.
+I aggressively shook someone’s hand even though they clearly had a drink in the other hand.
+I used up all the hot water.
+I kept hitting snooze on my alarm, waking everyone up every 5 minutes.
+I start every sentence with "Honestly..."
+I took a bite of someone’s food without asking.
+I asked for some food after saying I wasn’t hungry.
+I left my phone on full volume in a quiet place and didn’t answer it.
+I still have Crazy Frog as my ringtone.
+I got drunk at my kid’s T-ball game.
+I started a conversation about cupcakes with "We need to talk."
+I played on my phone when someone was waiting for the bathroom.
+I left my wet laundry in the machine for hours, blocking everyone else from using it.
+I write LOL after every joke. LOL.
+I only talk about myself.
+I loudly cracked my knuckles in a silent room.
+I drove slowly in the fast lane.
+I took forever to text back, then just responded "lol."
+I backwashed in someone’s drink.
+I left a passive-aggressive sticky note instead of just talking to someone.
+I double dipped.
+I stopped to text in the middle of a busy sidewalk.
+I got drunk at my work party.
+I said "just a minute" six hours ago.
+I took the biggest piece of cake without asking.
+I ruined a surprise party.
+I left the loaf of bread open.
+I took the batteries out of the remote and didn’t put them back.
+I gave the most generic advice... "stay in bed and drink plenty of fluids."
+I left my car parked across two spaces.
+I left my bright lights on while driving.
+I took my socks off and left them in the living room.
+
+
+
+[WHITE CARDS] Curse Cards (Your Petty Karma)
+May your shower always be just slightly too cold.
+May your phone charger only work at a weird angle.
+May you always get a popcorn kernel stuck in your teeth.
+May you always feel like you forgot something, but you didn’t.
+May you always hear a cricket but never find it.
+May every TV show you love gets canceled after one season.
+May your socks always be slightly damp.
+May you always type ‘teh’ instead of ‘the.’
+May every show you watch have spoilers in the thumbnails.
+May your pillow always be warm.
+May your earbuds always be tangled no matter how carefully you put them away.
+May your fitted sheet always pop off the corner of your bed.
+May your coffee never be just the right temperature.
+May every shopping cart you grab have a wobbly wheel.
+May you always sneeze four times in a row.
+May your phone screen always be just a little too dim.
+May you always lose your chapstick immediately after buying it.
+May your ice cream always be too melted or too frozen—never in between.
+May every time you try to fast forward, you accidentally restart the show instead.
+May you always drop a nickel when looking for change.
+May your sneakers always squeak.
+May every time you crack your knuckles, only one finger pops.
+May you always spray your hotdog with mustard juice.
+May your debit card always take two swipes to work.
+May your allergies kick in out of season.
+May your Bluetooth randomly disconnect for no reason.
+May your car break down in a field full of fleas.
+May your glasses always have a tiny smudge you can’t find.
+May your smoke alarm drain all your batteries CHIRP.
+May every door knob you touch give you a static shock.
+May your voice crack whenever you get mad.
+May every red light last exactly one second longer just for you.
+May you never turn right on red.
+May you always have a high ping.
+May your shoelaces always come untied at the worst possible moment.
+May you overtip by 10%.
+Every time you use a pen, may it run out of ink halfway through writing something important.
+May you never have the right condiments.
+May your phone battery percentage lie to you.
+May you do THAT for love.
+May every time you go to take a sip, your cup is just a little emptier than you expected.
+May your pinky toe always poke through your sock.
+May your grocery bag always rips at the worst possible moment.
+May you never find ripe avocados.
+May your belt loops always get caught on doorknobs.
+May you stumble on things that aren’t there.
+May your ice maker always give you one cube less than you need.
+May your grilled cheese melt unevenly.
+May you spill a few drops of coffee on yourself before an important meeting.
+May you always get stuck behind someone walking painfully slow.
+May you always end up behind a school bus when you’re running late.
+May your check engine light always be on.
+May your fork always have one bent prong.
+May your playlist always shuffle to the songs you skip.
+May your toilet seat always be cold.
+May every time you sit in a swivel chair, it leans back just a little too far.
+May people mistake your love for pineapples as something else.
+May nothing important happen to you today.
+May you tear up every time you yawn.
+May the next joke you hear go over your head.
+May someone steal your bandwidth.
+May your Hot Pocket… done and done.
+May you have a 4K TV and a 720p DVD.
+May a friend find something embarrassing in your couch.
+May you get a fairytale ending.
+May your DoorDash driver be creepy.
+May you be creative with writer's block.
+May you catch a hangnail on a piece of fabric.
+May you always have the wrong A-size battery.
+May your seatbelt locks.
+May you need to blow your nose and don’t have tissues.
+May your dry erase markers leave a smudge.
+May your favorite mug always have just a little bit of coffee residue left in it.
+May your phone always slip just out of reach when you're lying down.
+May your autocorrect never learn your name.
+May your Wi-Fi signal drop right as you’re about to win an online argument.
+May your favorite sweater always smell faintly of someone else’s perfume.
+May your fridge make that weird humming noise only when you’re trying to sleep.
+May your favorite snack always be just expired when you grab it.
+May your alarm clock snooze button stop working when you need it most.
+May your straw always bend at the wrong angle and stab your lip.
+May your headphones only play sound in one ear until you jiggle the cord just right.
+May every book you read have the last page torn out.
+May your car radio only pick up static on your favorite station.
+May your mouse cursor freeze for three seconds every time you click.
+May your toast always be burnt.
+May your umbrella flip inside out at the slightest breeze.
+May your favorite pen leak just enough ink to ruin one important note.
+May every pair of jeans you own get a tiny hole in the crotch.
+May your microwave popcorn always have twice as many unpopped kernels.
+May your chair always wobble just enough to annoy you but not enough to fix.
+May your pizza delivery always forget the extra sauce you paid for.
+May your shampoo bottle always fall over in the shower when it’s almost empty.
+May your favorite shirt shrink just enough to feel tight but not enough to replace.
+May your weather app always predict the sun right before it pours.
+May your socks always slide down inside your shoes halfway through the day.
+May your printer jam every time you’re in a hurry.
+May your keyboard miss exactly one letter every time you type a password.
+May your favorite candle burn out after five minutes every time you light it.
+May your streaming service buffer only during the best part of the movie.
+
